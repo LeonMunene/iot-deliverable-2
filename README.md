@@ -1,5 +1,14 @@
 # Project Deliverable 2
 
+### Group 2 Members (Arduino) 
+150460	Makau Nathan Maganga
+145768	Ogato Deborah Kerubo 
+166326	Muriithi Alvin
+169648	Kamau Joseph Manene
+162437	Ngigi Alex
+150320	Timothy Muigai
+150767	Leon Bundi
+
 # Question a
 
 ## Simulation
@@ -57,3 +66,4 @@ Additionally, ESP32 Node 1 measures temperature and humidity using the DHT22 sen
 
 # Group Photo
 ![Group photo](WhatsApp%20Image%202026-07-02%20at%205.59.22%20PM.jpeg)
+
