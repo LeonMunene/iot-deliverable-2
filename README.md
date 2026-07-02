@@ -5,7 +5,7 @@
 ## Simulation
 
 ## Physical prototype
-![Physical Prototype](images/WhatsApp%20Image%202026-07-02%20at%205.57.49%20PM.jpeg)
+![Physical Prototype](WhatsApp%20Image%202026-07-02%20at%205.57.49%20PM.jpeg)
 ![WhatsApp Image](WhatsApp%20Image%202026-07-02%20at%205.22.07%20PM.jpeg)
 ### Challenges
 
