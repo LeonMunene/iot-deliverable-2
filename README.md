@@ -5,7 +5,7 @@
 ## Simulation
 
 ## Physical prototype
-
+![WhatsApp Image](WhatsApp%20Image%202026-07-02%20at%205.22.07%20PM.jpeg)
 ### Challenges
 
 As illustrated in the diagrams, the MQ-5 gas sensor worked as expected and the results can be seen in the serial monitor. However, we could not get readings of humidity and temperature from the DHT-22 and the LCD was powering on but not displaying results.
