@@ -1,4 +1,4 @@
-#Project Deliverable 2
+# Project Deliverable 2
 
 # Question a
 
@@ -35,4 +35,4 @@ For the LCD powering on but not displaying results, we tried exchanging with oth
 
 
 
-Group Photo
+# Group Photo
