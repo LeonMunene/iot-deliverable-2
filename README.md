@@ -3,7 +3,7 @@
 # Question a
 
 ## Simulation
-[Question a Simulation](https://wokwi.com/projects/468368687339859969)
+[Question A Simulation](https://wokwi.com/projects/468368687339859969)
 
 ## Physical prototype
 ![PQuestion A 1](WhatsApp%20Image%202026-07-02%20at%205.57.49%20PM.jpeg)
@@ -23,8 +23,11 @@ For the LCD powering on but not displaying results, we tried exchanging with oth
 ## Simulation
 
 ### Board 1:
+[Question B Board 1 Simulation](https://wokwi.com/projects/468368958463897601)
 
 ### Board 2:
+[Question B Board 2 Simulation](https://wokwi.com/projects/468369775687442433)
+
 
 ## Physical prototype
 ![Question B 1](WhatsApp%20Image%202026-07-02%20at%205.57.42%20PM.jpeg)
@@ -41,8 +44,15 @@ The board with the MQ-5 sends its gas results to the board with DHT-22. Both the
 ## Simulation
 
 ### Board 1:
-### Board 2:
+[Question C Board 1 Simulation](https://wokwi.com/projects/468249352594753537)
 
+### Board 2:
+[Question C Board 1 Simulation](https://wokwi.com/projects/468252073689667585)
+
+### Explanation
+ESP32 Node 2 continuously monitors gas concentration levels using the MQ-5 sensor. The gas readings are published to an MQTT topic hosted on a public broker.
+ESP32 Node 1 subscribes to the same MQTT topic and receives gas concentration data in real time. Upon receiving the data, the node analyses the gas level and activates the relay whenever the gas concentration exceeds a predefined threshold.
+Additionally, ESP32 Node 1 measures temperature and humidity using the DHT22 sensor and publishes the readings to separate MQTT topics.
 
 
 # Group Photo
