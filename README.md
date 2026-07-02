@@ -26,7 +26,7 @@ For the LCD powering on but not displaying results, we tried exchanging with oth
 ### Board 2:
 
 ## Physical prototype
-![Quesion B 1](WhatsApp%20Image%202026-07-02%20at%205.57.28%20PM.jpeg)
+![Question B 1](WhatsApp%20Image%202026-07-02%20at%205.57.42%20PM.jpeg)
 ![Quesion B 2](WhatsApp%20Image%202026-07-02%20at%205.57.28%20PM.jpeg)
 
 # Question c
