@@ -2,12 +2,19 @@
 
 ### Group 2 Members (Arduino) 
 150460	Makau Nathan Maganga
+
 145768	Ogato Deborah Kerubo 
+
 166326	Muriithi Alvin
+
 169648	Kamau Joseph Manene
+
 162437	Ngigi Alex
+
 150320	Timothy Muigai
+
 150767	Leon Bundi
+
 
 # Question a
 
