@@ -3,6 +3,7 @@
 # Question a
 
 ## Simulation
+[Question a Simulation](https://wokwi.com/projects/468368687339859969)
 
 ## Physical prototype
 ![PQuestion A 1](WhatsApp%20Image%202026-07-02%20at%205.57.49%20PM.jpeg)
