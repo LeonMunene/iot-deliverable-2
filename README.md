@@ -54,7 +54,7 @@ For the LCD powering on but not displaying results, we tried exchanging with oth
 [▶️ Watch the demonstration video 2](WhatsApp%20Video%202026-07-02%20at%205.57.41%20PM%20(1).mp4)
 
 ### Explanation
-The board with the MQ-5 sends its gas results to the board with DHT-22. Both the results of DHT-22 and MQ-5 are printed in the serial monitor.
+As illustrated in the demo videos above which can be downloaded, the board with the MQ-5 sends its gas results to the board with DHT-22. Both the results of DHT-22 and MQ-5 are printed in the serial monitor.
 # Question c
 
 ## Simulation
