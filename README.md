@@ -1,1 +1,47 @@
-# iot-deliverable-2
+Project Deliverable 2
+
+# Question a
+
+Simulation
+
+# Question A
+
+Physical prototype
+
+# Challenges
+
+As illustrated in the diagrams, the MQ-5 gas sensor worked as expected and the results can be seen in the serial monitor. However, we could not get readings of humidity and temperature from the DHT-22 and the LCD was powering on but not displaying results.
+
+# Possible Solutions
+
+We faced a similar problem (failing to read from DHT-22) in question b and discovered that adding a resistor when connecting the DHT-22 to the esp32 board solved the problem. Due to time we did not implement this in question a. However, we did in question b and were successful.
+
+For the LCD powering on but not displaying results, we tried exchanging with other LCDs but we were unable to resolve the issue.
+
+# Question b
+
+Simulation
+
+Board 1:
+
+# Question b board 1
+
+Board 2:
+
+# Question b board 2
+
+Physical prototype
+
+# Question c
+
+Simulation
+
+Board 1:
+
+# Question c board 1
+
+Board 2:
+
+# Question c board 2
+
+Group Photo
