@@ -1,12 +1,10 @@
-Project Deliverable 2
+#Project Deliverable 2
 
 # Question a
 
-Simulation
+## Simulation
 
-# Question A
-
-Physical prototype
+## Physical prototype
 
 # Challenges
 
@@ -20,28 +18,21 @@ For the LCD powering on but not displaying results, we tried exchanging with oth
 
 # Question b
 
-Simulation
+## Simulation
 
-Board 1:
+### Board 1:
 
-# Question b board 1
+### Board 2:
 
-Board 2:
-
-# Question b board 2
-
-Physical prototype
+## Physical prototype
 
 # Question c
 
-Simulation
+## Simulation
 
-Board 1:
+### Board 1:
+### Board 2:
 
-# Question c board 1
 
-Board 2:
-
-# Question c board 2
 
 Group Photo
