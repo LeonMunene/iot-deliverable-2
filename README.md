@@ -61,7 +61,7 @@ As illustrated in the demo video above which can be downloaded, the board with t
 [Question C Board 1 Simulation](https://wokwi.com/projects/468249352594753537)
 
 ### Board 2:
-[Question C Board 1 Simulation](https://wokwi.com/projects/468252073689667585)
+[Question C Board 2 Simulation](https://wokwi.com/projects/468252073689667585)
 
 ### Explanation
 ESP32 Node 2 continuously monitors gas concentration levels using the MQ-5 sensor. The gas readings are published to an MQTT topic hosted on a public broker.
