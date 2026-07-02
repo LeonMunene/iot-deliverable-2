@@ -5,8 +5,8 @@
 ## Simulation
 
 ## Physical prototype
-![Physical Prototype](WhatsApp%20Image%202026-07-02%20at%205.57.49%20PM.jpeg)
-![WhatsApp Image](WhatsApp%20Image%202026-07-02%20at%205.22.07%20PM.jpeg)
+![PQuestion A 1](WhatsApp%20Image%202026-07-02%20at%205.57.49%20PM.jpeg)
+![Question A 2](WhatsApp%20Image%202026-07-02%20at%205.22.07%20PM.jpeg)
 ### Challenges
 
 As illustrated in the diagrams, the MQ-5 gas sensor worked as expected and the results can be seen in the serial monitor. However, we could not get readings of humidity and temperature from the DHT-22 and the LCD was powering on but not displaying results.
@@ -37,3 +37,4 @@ For the LCD powering on but not displaying results, we tried exchanging with oth
 
 
 # Group Photo
+![Group photo](WhatsApp%20Image%202026-07-02%20at%205.59.22%20PM.jpeg)
